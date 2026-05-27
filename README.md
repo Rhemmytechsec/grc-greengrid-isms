@@ -51,7 +51,7 @@ The project focuses on:
 
 ## Project Document
 
-[Download the Full ISMS Documentation](./GRC%20Greengrid%20Final%20Project%20docs.pdf)
+[Download the Full ISMS Documentation](GRC%20Greengrid%20Final%20project%20docs.pdf)
 
 ---
 
